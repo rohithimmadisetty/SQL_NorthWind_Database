@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">shipper_id</Data></Cell>
+			<Cell><Data ss:Type="String">company_name</Data></Cell>
+			<Cell><Data ss:Type="String">phone</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">Speedy Express</Data></Cell>
+			<Cell><Data ss:Type="String">(503) 555-9831</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">United Package</Data></Cell>
+			<Cell><Data ss:Type="String">(503) 555-3199</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">Federal Shipping</Data></Cell>
+			<Cell><Data ss:Type="String">(503) 555-9931</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="String">Alliance Shippers</Data></Cell>
+			<Cell><Data ss:Type="String">1-800-222-0451</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">UPS</Data></Cell>
+			<Cell><Data ss:Type="String">1-800-782-7892</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="String">DHL</Data></Cell>
+			<Cell><Data ss:Type="String">1-800-225-5345</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
